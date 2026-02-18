@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://bitdefenderhelpcenter.readthedocs.io/en/latest/sitemap.xml
+Sitemap: https://bit-defenderhelp.readthedocs.io/en/latest/sitemap.xml
